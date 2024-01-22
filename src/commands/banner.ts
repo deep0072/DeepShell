@@ -21,7 +21,7 @@ const createBanner = () : string[] => {
   banner.push("Welcome to DeepShell v1.0.0");
   banner.push("Type <span class='command'>'help'</span> for a list of all available commands.");
   banner.push(`Type <span class='command'>'repo'</span> to view the GitHub repository or click <a href='${command.repoLink}' target='_blank'>here</a>.`);
-  banner.push(`Type <span class='command'>'resume'</span> to view the GitHub repository or click <a href='${command.resume}' target='_blank'>here</a>.`);
+  banner.push(`Type <span class='command'>'resume'</span> to view my resume or click <a href='${command.resume}' target='_blank'>here</a>.`);
   banner.push("<br>");
   return banner;
 }

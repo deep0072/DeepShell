@@ -16,7 +16,7 @@
   "hostname": "deepshell",
   "password": "123456",
   "repoLink": "https://github.com/deep0072",
-  "resume": "./DeepakResume.pdf",
+  "resume": "resume/DeepakResume.pdf",
   "social": {
     "email": "deepakumar50136@gmail.com",
     "github": "deep0072",
