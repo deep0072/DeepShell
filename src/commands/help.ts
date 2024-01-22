@@ -16,16 +16,14 @@ const helpObj = {
       "'whoami'",
       "A perplexing question."
     ],
-    ["'sudo'",
-      "???"
-    ],
+  
     [
       "'repo'",
       "View the Github Repository."
     ],
     [
       "'resume'",
-      "View the my resume."
+      "View my resume."
     ],
     ["'banner'",
       "Display the banner."
