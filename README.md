@@ -41,7 +41,7 @@ Most of the configuration is done in the `config.json` file.
   "username": "guest",
   "hostname": "dug.dev",
   "password": "squirrel",
-  "repoLink": "https://github.com/nasan016/DeepShell",
+  "repoLink": "https://github.com/deep0072/DeepShell",
   "social": {
     "email": "dug@pixar.com",
     "github": "dugfromup",
