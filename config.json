@@ -1,0 +1,72 @@
+{
+  "ascii":
+
+    [    
+"██████╗ ███████╗███████╗██████╗  █████╗ ██╗  ██╗    ██╗  ██╗██╗   ██╗███╗   ███╗ █████╗ ██████╗ ",
+"██╔══██╗██╔════╝██╔════╝██╔══██╗██╔══██╗██║ ██╔╝    ██║ ██╔╝██║   ██║████╗ ████║██╔══██╗██╔══██╗",
+"██║  ██║█████╗  █████╗  ██████╔╝███████║█████╔╝     █████╔╝ ██║   ██║██╔████╔██║███████║██████╔╝",
+"██║  ██║██╔══╝  ██╔══╝  ██╔═══╝ ██╔══██║██╔═██╗     ██╔═██╗ ██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗",
+"██████╔╝███████╗███████╗██║     ██║  ██║██║  ██╗    ██║  ██╗╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║",
+"╚═════╝ ╚══════╝╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝"]
+
+                                                                                                
+,
+  "title": "deepshell",
+  "username": "deep",
+  "hostname": "deepshell",
+  "password": "123456",
+  "repoLink": "https://github.com/deep0072",
+  "resume": "./DeepakResume.pdf",
+  "social": {
+    "email": "deepakumar50136@gmail.com",
+    "github": "deep0072",
+    "linkedin": "deepak-kumar007"
+  },
+  "aboutGreeting": "Hi stranger. Welcome to deepshell.",
+  "projects": [
+    [
+      "StableCoin",
+      "StableCoin in solidity.",
+      "https://github.com/deep0072/EthereumFoundaryExamples/tree/master/Foundry-Stable-Coin"
+    ],
+    [
+      "DeepStake",
+      "Full stack staking contract in soldity and reactjs.",
+      "https://github.com/deep0072/DeepStaking"
+    ],
+    [
+      "mini_grep",
+      "linux grep tool in rust.",
+      "https://github.com/deep0072/RustJourney/tree/master/Day12/mini-grep"
+    ]
+  ],
+
+  "skills":[["python"],["DjangoRestFramework"],["solidity"],["foundry"],["git"],["mysql"],["mongodb"],["javascript"],["Reactjs"],["Rust(beginner)"]],
+
+  "colors": {
+    "background": "#0C0623",
+    "foreground": "#F8DDE5",
+    "banner": "#FF9951",
+    "border": {
+      "visible": true,
+      "color": "#FFADE2"
+    },
+    "prompt": {
+      "default": "#A5A7A7",
+      "user": "#FE6BC9",
+      "host": "#70FDFF",
+      "input": "#FF7685"
+    },
+    "link": {
+      "text": "#B6AAEE",
+      "highlightColor": "#FFADE2",
+      "highlightText": "#0C0623"
+    },
+    "commands": {
+      "textColor": "#FD9BDB"
+    },
+    "skills": {
+      "textColor": "#ffde00"
+    }
+  }
+}
